@@ -7,11 +7,6 @@ I specialize in:
 - Optimizing **machine learning platforms**
 - Leading high-performance engineering teams
 
-## 🔨 Featured Projects
-- [Mentor Marketplace (PrepRoad)](https://github.com/yourrepo) – A platform for mock interviews & mentorship  
-- [Voice Logging Android App](https://github.com/yourrepo) – Speech recognition, waveform visualization & logging  
-- [Search Platform @ Media.net](https://github.com/yourrepo) – Scalable search engine handling 10k+ requests/sec  
-
 ## 📈 Experience
 - **Media.net** – Senior Engineering Manager (2023–Present)  
 - **Google** – Staff Software Engineer (Ads Quality & Search)  
@@ -24,8 +19,8 @@ I specialize in:
 - Designed **position-aware ranking** boosting ad block revenue  
 
 ## 📫 Connect with Me
-- [LinkedIn](https://linkedin.com/in/your-link)  
-- [Email](mailto:your.email@example.com)  
-- [Website/Blog](https://yourwebsite.com)  
+- [LinkedIn](https://linkedin.com/in/parasmalik)  
+- [Email](mailto:paras.sde@gmail.com)  
+- [Website/Blog](https://medium.com/@paras.sde)  
 
-⭐️ From [Paras Malik](https://github.com/yourusername)
+⭐️ From [Paras Malik](https://github.com/i-plusplus)
